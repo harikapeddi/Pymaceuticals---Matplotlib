@@ -1,6 +1,6 @@
-# Pymaceuticals---Matplotlib
+# Pymaceuticals-Matplotlib
 
-# Matplotlib Homework - The Power of Plots
+
 
 ## Background
 
